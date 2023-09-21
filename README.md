@@ -6,8 +6,8 @@ This repository contains assignments and necessary resources for the `digital_ex
 
 1. **Clone the Repository**:
     ```bash
-    git clone [URL_OF_THIS_REPOSITORY]
-    cd [REPOSITORY_NAME]
+    git clone [[URL_OF_THIS_REPOSITORY]](https://github.com/LucVermeer/grading_environment)
+    cd grading_environment
     ```
 
 2. **Setting Up the Environment**:
@@ -20,8 +20,10 @@ This repository contains assignments and necessary resources for the `digital_ex
 
 
 3. **Launch Jupyter**:
-   Before launching jupyter, make sure you are in the course directory
+   
+   *Important:* Before launching jupyter, make sure you are in the course directory.
    ```bash
+   cd digital_expertise
    jupyter notebook
    ```
 
