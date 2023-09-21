@@ -11,8 +11,6 @@ This repository contains assignments and necessary resources for the `digital_ex
     ```
 
 2. **Setting Up the Environment**:
-
-   - If you're using `conda`:
      ```bash
      conda env create -f environment.yml
      conda activate nbgrader_env
