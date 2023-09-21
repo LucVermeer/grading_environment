@@ -6,7 +6,7 @@ This repository contains assignments and necessary resources for the `digital_ex
 
 1. **Clone the Repository**:
     ```bash
-    git clone [[URL_OF_THIS_REPOSITORY]](https://github.com/LucVermeer/grading_environment)
+    git clone https://github.com/LucVermeer/grading_environment
     cd grading_environment
     ```
 
