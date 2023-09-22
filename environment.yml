@@ -168,4 +168,3 @@ dependencies:
       - seaborn==0.12.2
       - threadpoolctl==3.2.0
       - tzdata==2023.3
-prefix: C:\Users\lverm\anaconda3\envs\nbgrader_env
